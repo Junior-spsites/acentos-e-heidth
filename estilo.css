@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background-color: bisque;
+}
+.topo{
+    width: 100%;
+    max-width: 90%;
+    margin: auto;
+    margin-bottom: 5px;
+    background-color: burlywood;
+}
+.slides{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(95, 80, 11);
+    margin: auto;
+}
+
+.info{
+    width: 100%;
+    max-width: 90%;
+    height: 30px;
+    margin: auto;
+    margin-top: 5px;
+    border: 1px solid rgb(255, 7, 7);
+    background-color: rgb(243, 194, 149);
+}
+.menu{
+    width: 100%;
+    max-width: 90%;
+    height: 60px;
+    margin: auto;
+    margin-top: 5px;
+    border: 1px solid #bbb;
+    background-color: rgb(243, 221, 149);
+}
+.site{
+    width: 100%;
+    height: auto;
+    max-width: 90%;
+    margin: auto;
+    margin-top: 5px;
+    background-color: burlywood;
+}
+.site_int{
+    width: auto;
+    height: 500px;
+    background-color: rgb(19, 11, 3);
+}
+.site_l{
+    width: 48%;
+    height: auto;
+    float: left;
+    color:rgb(170, 202, 240);
+    background-color: rgb(98, 139, 131);
+}
+.site_r{
+    width: 48%;
+    height: 100px;
+    color:cornsilk;
+    float: right;
+    background-color: rgb(112, 95, 95);
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    color:cornsilk;
+    text-align: center;
+    margin-top: 5px;
+    background-color: rgb(95, 80, 11);
+    
+}
